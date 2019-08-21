@@ -5,10 +5,11 @@
 - Frontend: https://around-75015.appspot.com/
 
 ### Structure Diagram
-*Backend:*
+
+#### Backend
 <img src="/images/structure_backend.PNG" width="600x">
 
-*Frontend:*
+#### Frontend
 <img src="/images/structure_frontend.PNG" width="500x">
 
 ### Description
